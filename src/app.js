@@ -1,4 +1,4 @@
-import Surprise from "./Surprise";
+import Surprise from "./surprise";
 
 function App() {
   return <Surprise />;
