@@ -1,10 +1,12 @@
-import React from "react";
+import React from 'react';
+import './App.css';
 
 function App() {
   return (
-    <div style={{ textAlign: "center", marginTop: "100px" }}>
-      <h1>❤️ Sürpriz Aşk Projesi Yayında! ❤️</h1>
-      <p>GitHub Pages ile yayınlandı.</p>
+    <div className="App">
+      <h1>🎉 Sürpriz Aşk Projesi 🎉</h1>
+      <p>Bu sayfa GitHub Pages ile yayınlandı!</p>
+      <button onClick={() => alert("Seni seviyorum ❤️")}>Bana Tıkla</button>
     </div>
   );
 }
