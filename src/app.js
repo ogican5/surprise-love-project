@@ -1,4 +1,4 @@
-import Surprise from "./surprise";
+import Surprise from "./Surprise.jsx";
 
 function App() {
   return <Surprise />;

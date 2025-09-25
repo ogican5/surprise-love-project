@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/surprise-love-project/static/js/main.e38ba3b7.js",
+    "main.js": "/surprise-love-project/static/js/main.debbd971.js",
     "index.html": "/surprise-love-project/index.html",
-    "main.e38ba3b7.js.map": "/surprise-love-project/static/js/main.e38ba3b7.js.map"
+    "main.debbd971.js.map": "/surprise-love-project/static/js/main.debbd971.js.map"
   },
   "entrypoints": [
-    "static/js/main.e38ba3b7.js"
+    "static/js/main.debbd971.js"
   ]
 }
