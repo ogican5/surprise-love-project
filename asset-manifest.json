@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/surprise-love-project/static/js/main.e19c200e.js",
+    "main.css": "/surprise-love-project/static/css/main.5a0ab806.css",
+    "main.js": "/surprise-love-project/static/js/main.c0582629.js",
     "index.html": "/surprise-love-project/index.html",
-    "main.e19c200e.js.map": "/surprise-love-project/static/js/main.e19c200e.js.map"
+    "main.5a0ab806.css.map": "/surprise-love-project/static/css/main.5a0ab806.css.map",
+    "main.c0582629.js.map": "/surprise-love-project/static/js/main.c0582629.js.map"
   },
   "entrypoints": [
-    "static/js/main.e19c200e.js"
+    "static/css/main.5a0ab806.css",
+    "static/js/main.c0582629.js"
   ]
 }
